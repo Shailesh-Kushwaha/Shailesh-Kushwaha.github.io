@@ -1,2 +1,2 @@
-# SLSK98.github.io
+# Shailesh-Kushwaha.github.io
 Personal academic website of Shailesh Kushwaha
