@@ -52,7 +52,7 @@ I am also developing an **in-house experimental facility for single-phase immers
 
 ---
 
-# 2. Computational Thermal Engineering
+## 2. Computational Thermal Engineering
 
 Computational Fluid Dynamics forms an important component of my research.
 
@@ -68,7 +68,7 @@ The published data-center study uses a full-scale CFD model and investigates tem
 
 ---
 
-# 3. Reduced-Order Modeling
+## 3. Reduced-Order Modeling
 
 High-fidelity CFD simulations can require substantial computational resources, particularly when many operating conditions must be evaluated.
 
@@ -88,7 +88,7 @@ Most importantly, the reduced-order model reduced the prediction time from appro
 
 ---
 
-# 4. Scientific Machine Learning
+## 4. Scientific Machine Learning
 
 My research increasingly focuses on the integration of **machine learning with physics-based thermal modeling**.
 
@@ -104,7 +104,7 @@ This provides a framework in which the dominant spatial structures of the therma
 
 ---
 
-# 5. Physics-Informed Machine Learning
+## 5. Physics-Informed Machine Learning
 
 A future direction of my research is the development of **Physics-Informed Neural Networks (PINNs)** and related physics-informed machine-learning approaches.
 

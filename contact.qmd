@@ -32,13 +32,18 @@ Chennai – 600036, Tamil Nadu, India
 
 ## Professional Profiles
 
-🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z3vaXL4AAAAJ)
+::: {.profile-links}
 
-💻 [GitHub](https://github.com/Shailesh-Kushwaha)
+[<i class="fa-brands fa-google-scholar"></i>🎓 Google Scholar](https://scholar.google.com/citations?hl=en&user=Z3vaXL4AAAAJ)
 
-💼 [LinkedIn](https://www.linkedin.com/in/shailesh-kushwaha-6218ab210)
+[<i class="fa-brands fa-github"></i>💻 GitHub](https://github.com/Shailesh-Kushwaha)
 
-🆔 [ORCID](https://orcid.org/0000-0002-3400-5294)
+[<i class="fa-brands fa-linkedin"></i>💼 LinkedIn](https://www.linkedin.com/in/shailesh-kushwaha-6218ab210)
+
+[<i class="fa-brands fa-orcid"></i>🆔 ORCID](https://orcid.org/0000-0002-3400-5294)
+
+:::
+
 
 ---
 

@@ -28,7 +28,7 @@ page-layout: full
 
 ::: {.column width="25%"}
 
-![](images/profile.png){width=220}
+![](images/profile.png){.profile-photo}
 
 :::
 
@@ -88,7 +88,7 @@ Development of machine-learning-assisted reduced-order models and exploration of
 
 ## Selected Publications
 
-### **Reduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition**
+### Reduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition
 
 *Applied Thermal Engineering* · 2026
 
@@ -96,13 +96,9 @@ Development of machine-learning-assisted reduced-order models and exploration of
 
 ---
 
-### **Heat transfer performance of a novel PCM based heat sink coupled with heat pipe: An experimental study**
+### Heat transfer performance of a novel PCM based heat sink coupled with heat pipe: An experimental study
 
 *Applied Thermal Engineering* · 2023
 
 [View publication →](publications.qmd)
 
----
-
-[**Explore my research →**](research.qmd)  
-[**View all publications →**](publications.qmd)
