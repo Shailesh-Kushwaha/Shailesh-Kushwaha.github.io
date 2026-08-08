@@ -87,3 +87,7 @@ p {
 .publication-card strong {
     font-weight: 700;
 }
+/* Hide Quarto's automatically generated visible page title */
+.quarto-title-block {
+    display: none;
+}
