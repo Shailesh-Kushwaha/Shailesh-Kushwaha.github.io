@@ -128,7 +128,7 @@ Most importantly, the reduced-order model reduced the prediction time from appro
 
 ![](images/ROM_air/RMSE_box_plot.png)
 
-**Model validation:** Comparison of predicted and CFD mean temperatures for POD-LSR, POD-MARS, and POD-RF.
+**Model Comparison:** RMSE distribution across 114 independent test cases for POD-LSR, POD-MARS, and POD-RF.
 
 </div>
 
