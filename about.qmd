@@ -1,5 +1,17 @@
 ---
-toc: false
+title: "About Shailesh Kushwaha | IIT Madras"
+
+description: "Academic background, research experience, and professional profile of Shailesh Kushwaha, Ph.D. Research Scholar in Mechanical Engineering at IIT Madras."
+
+author: "Shailesh Kushwaha"
+
+keywords:
+  - Shailesh Kushwaha
+  - IIT Madras
+  - Mechanical Engineering
+  - Thermal Engineering
+  - Ph.D. Research Scholar
+  - Thermal Systems
 page-layout: full
 ---
 

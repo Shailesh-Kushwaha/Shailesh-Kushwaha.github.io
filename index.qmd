@@ -1,4 +1,25 @@
 ---
+title: "Shailesh Kushwaha | Ph.D. Research Scholar, IIT Madras"
+
+description: "Shailesh Kushwaha is a Ph.D. Research Scholar in Mechanical Engineering at IIT Madras working on thermal management, electronics cooling, data center cooling, CFD, reduced-order modeling, and scientific machine learning."
+
+author: "Shailesh Kushwaha"
+
+keywords:
+  - Shailesh Kushwaha
+  - IIT Madras
+  - Mechanical Engineering
+  - Thermal Engineering
+  - Thermal Management
+  - Electronics Cooling
+  - Data Center Cooling
+  - Computational Fluid Dynamics
+  - CFD
+  - Reduced-Order Modeling
+  - Proper Orthogonal Decomposition
+  - Scientific Machine Learning
+  - Physics-Informed Neural Networks
+  - PINNs
 toc: false
 page-layout: full
 ---

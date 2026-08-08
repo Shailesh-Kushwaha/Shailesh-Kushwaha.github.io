@@ -1,9 +1,13 @@
 ---
-toc: false
+title: "Publications | Shailesh Kushwaha"
+
+description: "Journal and conference publications by Shailesh Kushwaha in thermal engineering, electronics cooling, data center cooling, immersion cooling, and reduced-order modeling."
+
+author: "Shailesh Kushwaha"
 page-layout: full
 ---
 
-# Publications
+# Publications | Shailesh Kushwaha
 
 My publications span **experimental electronics cooling** and **data-driven reduced-order modeling for data center thermal management**.
 

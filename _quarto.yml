@@ -3,7 +3,14 @@ project:
 
 website:
   title: "Shailesh Kushwaha"
+  
+  description: "Academic website of Shailesh Kushwaha, Ph.D. Research Scholar in Mechanical Engineering at IIT Madras, working on thermal management, electronics cooling, data center cooling, CFD, reduced-order modeling, and scientific machine learning."
+  
+  site-url: "https://shailesh-kushwaha.github.io/"
+  
+  image: "images/profile.png"
 
+  open-graph: true
   navbar:
     left:
       - href: index.qmd

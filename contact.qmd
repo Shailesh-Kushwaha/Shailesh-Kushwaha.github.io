@@ -1,9 +1,13 @@
 ---
-toc: false
+title: "Contact | Shailesh Kushwaha"
+
+description: "Contact information and professional profiles of Shailesh Kushwaha, Ph.D. Research Scholar at IIT Madras."
+
+author: "Shailesh Kushwaha"
 page-layout: full
 ---
 
-# Contact
+# Contact | Shailesh Kushwaha
 
 I am open to research discussions, collaborations, and postdoctoral opportunities in thermal engineering and scientific machine learning.
 

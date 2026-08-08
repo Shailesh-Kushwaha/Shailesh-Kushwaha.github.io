@@ -1,9 +1,24 @@
 ---
-toc: true
+title: "Research | Shailesh Kushwaha"
+
+description: "Research in experimental heat transfer, electronics cooling, data center cooling, computational fluid dynamics, reduced-order modeling, scientific machine learning, and Physics-Informed Neural Networks."
+
+author: "Shailesh Kushwaha"
+
+keywords:
+  - Data Center Cooling
+  - Electronics Cooling
+  - Experimental Heat Transfer
+  - Computational Fluid Dynamics
+  - CFD
+  - Reduced-Order Modeling
+  - POD
+  - Scientific Machine Learning
+  - PINNs
 page-layout: full
 ---
 
-# Research
+# Research | Shailesh Kushwaha
 
 My research lies at the intersection of **experimental heat transfer, computational fluid dynamics, reduced-order modeling, and scientific machine learning**. I develop and investigate thermal management systems through a combination of experimental methods, high-fidelity numerical simulations, and data-driven computational techniques.
 

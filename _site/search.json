@@ -2,196 +2,196 @@
   {
     "objectID": "research.html",
     "href": "research.html",
-    "title": "Research",
+    "title": "Research | Shailesh Kushwaha",
     "section": "",
     "text": "My research lies at the intersection of experimental heat transfer, computational fluid dynamics, reduced-order modeling, and scientific machine learning. I develop and investigate thermal management systems through a combination of experimental methods, high-fidelity numerical simulations, and data-driven computational techniques.\nMy broader objective is to develop accurate and computationally efficient approaches for thermal analysis, prediction, and optimization."
   },
   {
     "objectID": "research.html#experimental-thermal-engineering",
     "href": "research.html#experimental-thermal-engineering",
-    "title": "Research",
+    "title": "Research | Shailesh Kushwaha",
     "section": "1. Experimental Thermal Engineering",
     "text": "1. Experimental Thermal Engineering\nMy experimental work focuses on the thermal management of electronic systems and the development of experimental facilities for investigating advanced cooling technologies.\n\nElectronics Cooling\nDuring my master’s research, I designed and fabricated an in-house experimental facility for investigating PCM-based heat sinks. The experimental work included different fin configurations and a heat-pipe-coupled three-fin heat sink.\nThe study investigated the charging and discharging behavior of PCM-based heat sinks and evaluated their thermal performance under different operating conditions. The heat-pipe-coupled configuration demonstrated improved performance compared with the other configurations investigated.\nKey areas:\n\nPCM-based heat sinks\nHeat pipe-assisted cooling\nThermal performance characterization\nExperimental heat transfer\nThermal management of electronic components\n\n\n\nImmersion Cooling\nI am also developing an in-house experimental facility for single-phase immersion cooling of data center servers, with the aim of investigating alternative cooling strategies for high-density computing systems."
   },
   {
     "objectID": "research.html#pod-based-reduced-order-modeling-for-air-cooled-data-centers",
     "href": "research.html#pod-based-reduced-order-modeling-for-air-cooled-data-centers",
-    "title": "Research",
+    "title": "Research | Shailesh Kushwaha",
     "section": "POD-Based Reduced-Order Modeling for Air-Cooled Data Centers",
     "text": "POD-Based Reduced-Order Modeling for Air-Cooled Data Centers\nStatus: Published / Completed\nDevelopment of a data-driven POD framework combined with Random Forest regression for rapid prediction of temperature fields in air-cooled data centers.\nRead the publication →"
   },
   {
     "objectID": "research.html#experimental-facility-for-single-phase-immersion-cooling",
     "href": "research.html#experimental-facility-for-single-phase-immersion-cooling",
-    "title": "Research",
+    "title": "Research | Shailesh Kushwaha",
     "section": "Experimental Facility for Single-Phase Immersion Cooling",
     "text": "Experimental Facility for Single-Phase Immersion Cooling\nStatus: Ongoing\nDesign and development of an experimental facility for investigating single-phase immersion cooling of data center servers."
   },
   {
     "objectID": "research.html#cfd-automation-and-scientific-computing",
     "href": "research.html#cfd-automation-and-scientific-computing",
-    "title": "Research",
+    "title": "Research | Shailesh Kushwaha",
     "section": "CFD Automation and Scientific Computing",
     "text": "CFD Automation and Scientific Computing\nStatus: Ongoing\nDevelopment of automated computational workflows for CFD simulations using Python and scientific computing tools, with the objective of improving simulation efficiency and research productivity."
   },
   {
     "objectID": "research.html#physics-informed-machine-learning-for-thermal-engineering",
     "href": "research.html#physics-informed-machine-learning-for-thermal-engineering",
-    "title": "Research",
+    "title": "Research | Shailesh Kushwaha",
     "section": "Physics-Informed Machine Learning for Thermal Engineering",
     "text": "Physics-Informed Machine Learning for Thermal Engineering\nStatus: Future Research Direction\nInvestigation of PINNs and related scientific machine-learning approaches for efficient thermal-fluid simulation and prediction."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Shailesh Kushwaha",
+    "title": "Shailesh Kushwaha | Ph.D. Research Scholar, IIT Madras",
     "section": "",
     "text": "Department of Mechanical Engineering\nIndian Institute of Technology Madras\nMy research lies at the intersection of experimental heat transfer, computational fluid dynamics, reduced-order modeling, and scientific machine learning, with applications in thermal management of electronic systems and data centers.\n\n Google Scholar\n GitHub\n LinkedIn\n ORCID"
   },
   {
     "objectID": "index.html#latest-news",
     "href": "index.html#latest-news",
-    "title": "Shailesh Kushwaha",
+    "title": "Shailesh Kushwaha | Ph.D. Research Scholar, IIT Madras",
     "section": "Latest News",
     "text": "Latest News\n\n 🎉 Our paper, “Reduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition”, has been published in Applied Thermal Engineering."
   },
   {
     "objectID": "index.html#research-highlights",
     "href": "index.html#research-highlights",
-    "title": "Shailesh Kushwaha",
+    "title": "Shailesh Kushwaha | Ph.D. Research Scholar, IIT Madras",
     "section": "Research Highlights",
     "text": "Research Highlights\n\nExperimental Thermal Engineering\nDesign and development of experimental facilities for electronics and data center cooling, with experimental investigations of advanced thermal management systems.\n\n\nComputational Thermal Engineering\nDevelopment and validation of CFD models for analyzing airflow and temperature distributions in thermal management systems.\n\n\nScientific Machine Learning\nDevelopment of machine-learning-assisted reduced-order models and exploration of physics-informed approaches for accelerating thermal simulations."
   },
   {
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
-    "title": "Shailesh Kushwaha",
+    "title": "Shailesh Kushwaha | Ph.D. Research Scholar, IIT Madras",
     "section": "Selected Publications",
     "text": "Selected Publications\n\nReduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition\nApplied Thermal Engineering · 2026\nView publication →\n\n\n\nHeat transfer performance of a novel PCM based heat sink coupled with heat pipe: An experimental study\nApplied Thermal Engineering · 2023\nView publication →\n\nExplore my research →\nView all publications →"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About Me",
+    "title": "About Shailesh Kushwaha | IIT Madras",
     "section": "",
     "text": "I am Shailesh Kushwaha, a Ph.D. Research Scholar in the Department of Mechanical Engineering at the Indian Institute of Technology Madras (IIT Madras), where I conduct research under the supervision of Prof. C. Balaji.\nMy academic and research background is in thermal engineering and thermal management of electronic systems. My work combines experimental investigations with computational modeling and data-driven methods to address challenging heat-transfer problems.\nDuring my research career, I have designed and developed in-house experimental facilities for electronics and data center cooling. I have also developed computational models and used experimental measurements for model validation. Building on this foundation, my doctoral research has expanded toward machine-learning-assisted reduced-order modeling for rapid thermal prediction.\nI am particularly interested in developing computational approaches that can bridge the gap between high-fidelity physics-based simulations and fast predictive models. Looking ahead, I am interested in scientific machine learning and Physics-Informed Neural Networks (PINNs) for developing efficient alternatives or complements to conventional CFD."
   },
   {
     "objectID": "about.html#ph.d.-in-mechanical-engineering",
     "href": "about.html#ph.d.-in-mechanical-engineering",
-    "title": "About Me",
+    "title": "About Shailesh Kushwaha | IIT Madras",
     "section": "Ph.D. in Mechanical Engineering",
     "text": "Ph.D. in Mechanical Engineering\n2022 – Present\nIndian Institute of Technology Madras (IIT Madras)\nDepartment of Mechanical Engineering\nSupervisor: Prof. C. Balaji"
   },
   {
     "objectID": "about.html#m.tech.-in-thermal-system-design",
     "href": "about.html#m.tech.-in-thermal-system-design",
-    "title": "About Me",
+    "title": "About Shailesh Kushwaha | IIT Madras",
     "section": "M.Tech. in Thermal System Design",
     "text": "M.Tech. in Thermal System Design\n2020 – 2022\nSardar Vallabhbhai National Institute of Technology (SVNIT), Surat\nDepartment of Mechanical Engineering\nSupervisors: Dr. Naresh Yarramsetty and Dr. Jyotirmay Banerjee\nMy master’s research focused on electronics cooling and PCM-based heat sinks."
   },
   {
     "objectID": "about.html#b.tech.-in-mechanical-engineering",
     "href": "about.html#b.tech.-in-mechanical-engineering",
-    "title": "About Me",
+    "title": "About Shailesh Kushwaha | IIT Madras",
     "section": "B.Tech. in Mechanical Engineering",
     "text": "B.Tech. in Mechanical Engineering\n2015 – 2019\nPranveer Singh Institute of Technology (PSIT), Kanpur"
   },
   {
     "objectID": "about.html#experimental-thermal-engineering",
     "href": "about.html#experimental-thermal-engineering",
-    "title": "About Me",
+    "title": "About Shailesh Kushwaha | IIT Madras",
     "section": "Experimental Thermal Engineering",
     "text": "Experimental Thermal Engineering\n\nExperimental facility design and development\nHeat-transfer experimentation\nThermal measurements\nElectronics cooling experiments\nPCM-based thermal management\nHeat pipe-assisted cooling"
   },
   {
     "objectID": "about.html#computational-modeling",
     "href": "about.html#computational-modeling",
-    "title": "About Me",
+    "title": "About Shailesh Kushwaha | IIT Madras",
     "section": "Computational Modeling",
     "text": "Computational Modeling\n\nComputational Fluid Dynamics (CFD)\nANSYS Fluent\nANSYS Meshing\nICEM CFD\nSpaceClaim"
   },
   {
     "objectID": "about.html#reduced-order-modeling-machine-learning",
     "href": "about.html#reduced-order-modeling-machine-learning",
-    "title": "About Me",
+    "title": "About Shailesh Kushwaha | IIT Madras",
     "section": "Reduced-Order Modeling & Machine Learning",
     "text": "Reduced-Order Modeling & Machine Learning\n\nProper Orthogonal Decomposition (POD)\nSingular Value Decomposition (SVD)\nMachine-learning-assisted reduced-order modeling\nRandom Forest regression\nSurrogate modeling"
   },
   {
     "objectID": "about.html#scientific-computing-hpc",
     "href": "about.html#scientific-computing-hpc",
-    "title": "About Me",
+    "title": "About Shailesh Kushwaha | IIT Madras",
     "section": "Scientific Computing & HPC",
     "text": "Scientific Computing & HPC\n\nPython\nMATLAB\nLinux\nPBS Job Scheduler\nParallel computing"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
-    "title": "Contact",
+    "title": "Contact | Shailesh Kushwaha",
     "section": "",
     "text": "I am open to research discussions, collaborations, and postdoctoral opportunities in thermal engineering and scientific machine learning.\n\n\n\nShailesh Kushwaha\nPh.D. Research Scholar\nHeat Transfer and Thermal Power (HTTP) Laboratory\nDepartment of Mechanical Engineering\nIndian Institute of Technology Madras\nChennai – 600036, Tamil Nadu, India\n\n\n\n\n📧 me22d038@smail.iitm.ac.in\n\n\n\n\n🎓 Google Scholar\n💻 GitHub\n💼 LinkedIn\n🆔 ORCID\n\n\n\n\nI welcome opportunities to collaborate on research involving experimental heat transfer, thermal management, computational fluid dynamics, reduced-order modeling, and scientific machine learning."
   },
   {
     "objectID": "contact.html#academic-affiliation",
     "href": "contact.html#academic-affiliation",
-    "title": "Contact",
+    "title": "Contact | Shailesh Kushwaha",
     "section": "",
     "text": "Shailesh Kushwaha\nPh.D. Research Scholar\nHeat Transfer and Thermal Power (HTTP) Laboratory\nDepartment of Mechanical Engineering\nIndian Institute of Technology Madras\nChennai – 600036, Tamil Nadu, India"
   },
   {
     "objectID": "contact.html#email",
     "href": "contact.html#email",
-    "title": "Contact",
+    "title": "Contact | Shailesh Kushwaha",
     "section": "",
     "text": "📧 me22d038@smail.iitm.ac.in"
   },
   {
     "objectID": "contact.html#professional-profiles",
     "href": "contact.html#professional-profiles",
-    "title": "Contact",
+    "title": "Contact | Shailesh Kushwaha",
     "section": "",
     "text": "🎓 Google Scholar\n💻 GitHub\n💼 LinkedIn\n🆔 ORCID"
   },
   {
     "objectID": "contact.html#research-collaboration",
     "href": "contact.html#research-collaboration",
-    "title": "Contact",
+    "title": "Contact | Shailesh Kushwaha",
     "section": "",
     "text": "I welcome opportunities to collaborate on research involving experimental heat transfer, thermal management, computational fluid dynamics, reduced-order modeling, and scientific machine learning."
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
-    "title": "Publications",
+    "title": "Publications | Shailesh Kushwaha",
     "section": "",
     "text": "My publications span experimental electronics cooling and data-driven reduced-order modeling for data center thermal management.\nA complete and up-to-date publication record is also available on Google Scholar."
   },
   {
     "objectID": "publications.html#section",
     "href": "publications.html#section",
-    "title": "Publications",
+    "title": "Publications | Shailesh Kushwaha",
     "section": "2026",
     "text": "2026\n\nReduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition\nAuthors: Shailesh Kushwaha, Ankith Suresh, C. Balaji\nJournal: Applied Thermal Engineering, 303 (2026), 132277\nStatus: Published\nDOI: 10.1016/j.applthermaleng.2026.132277\nHighlights\n\nDeveloped a data-driven POD-Random Forest reduced-order model for air-cooled data center thermal prediction.\nEvaluated POD-RF against POD-LSR and POD-MARS.\nValidated the models using 114 independent test cases.\nPOD-RF achieved an MAE of 0.621 K, RMSE of 0.831 K, and (R^2=0.958).\nReduced online prediction time from approximately 5 hours for CFD to less than 1 second per operating condition."
   },
   {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
-    "title": "Publications",
+    "title": "Publications | Shailesh Kushwaha",
     "section": "2023",
     "text": "2023\n\nHeat transfer performance of a novel PCM based heat sink coupled with heat pipe: An experimental study\nAuthors: Shailesh Kushwaha, Naresh Yarramsetty, Jyotirmay Banerjee\nJournal: Applied Thermal Engineering, 229 (2023), 120552\nStatus: Published\nDOI: 10.1016/j.applthermaleng.2023.120552\nHighlights\n\nConducted experimental investigations of PCM-based heat sinks.\nInvestigated different fin configurations and PCM fill ratios.\nDeveloped a three-fin heat sink coupled with a heat pipe.\nThe heat-pipe-coupled configuration improved charging and discharging performance compared with the three-fin heat sink."
   },
   {
     "objectID": "publications.html#section-2",
     "href": "publications.html#section-2",
-    "title": "Publications",
+    "title": "Publications | Shailesh Kushwaha",
     "section": "2026",
     "text": "2026\n\nPerformance Enhancement of Single-Phase Immersion Cooled Data Center Servers through Top Cover Plate Design Modification\nAuthors: Jouhar Sheikh, Kasavajhula Naga Vasista, Shailesh Kushwaha, Chakravarthy Balaji\nConference: Proceedings of the 28th National and 6th International ISHMT-AS​TFE Heat and Mass Transfer Conference\nDOI: 10.1615/ihmtc-2025.1050"
   },
   {
     "objectID": "publications.html#section-3",
     "href": "publications.html#section-3",
-    "title": "Publications",
+    "title": "Publications | Shailesh Kushwaha",
     "section": "2024",
     "text": "2024\n\nThermal management of multi-chip electronic module with wavy fin heat sink-assisted immersion cooling\nAuthors: P. Suresh, K. N. Vasista, S. Kushwaha, C. Balaji\nJournal: Journal of Physics: Conference Series\nYear: 2024\nArticle: 012182\nDOI: 10.1088/1742-6596/2766/1/012182"
   }
