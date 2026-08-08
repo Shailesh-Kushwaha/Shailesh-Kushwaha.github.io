@@ -114,6 +114,22 @@ p {
 .publication-card strong {
     font-weight: 700;
 }
+/* Prevent long DOI and other URLs from overflowing on mobile */
+.publication-card a {
+    overflow-wrap: anywhere;
+    word-break: break-word;
+}
+
+@media (max-width: 768px) {
+    .publication-card {
+        overflow: hidden;
+    }
+
+    .publication-card a {
+        overflow-wrap: anywhere;
+        word-break: break-word;
+    }
+}
 
 
 /* =================================

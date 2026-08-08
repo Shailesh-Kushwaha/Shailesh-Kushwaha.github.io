@@ -64,7 +64,7 @@ My research lies at the intersection of **experimental heat transfer, computatio
 
 <div class="news-ticker">
 <span>
-🎉 Our paper, <strong>"Reduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition"</strong>, has been published in <em>Applied Thermal Engineering</em>.
+📢 Research Update: <strong>"Reduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition"</strong>, has been published in <em>Applied Thermal Engineering</em>.
 </span>
 </div>
 
