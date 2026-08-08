@@ -1,6 +1,9 @@
 project:
   type: website
 
+  resources:
+    - "google2affc61292726523.html"
+
 website:
   title: "Shailesh Kushwaha"
   
