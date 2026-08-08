@@ -38,6 +38,34 @@ During my master's research, I designed and fabricated an **in-house experimenta
 
 The study investigated the charging and discharging behavior of PCM-based heat sinks and evaluated their thermal performance under different operating conditions. The heat-pipe-coupled configuration demonstrated improved performance compared with the other configurations investigated.
 
+<div class="research-figure-grid">
+
+<div class="research-figure research-figure-wide">
+
+![](images/PCM_HS/experimental_setup.jpg)
+
+**Experimental facility:** In-house experimental setup developed for the thermal characterization of PCM-based heat sinks.
+
+</div>
+
+<div class="research-figure">
+
+![](images/PCM_HS/heat_sink_design.png)
+
+**Heat-sink configuration:** Schematic of the heat-pipe-coupled three-fin heat sink used in the experimental investigation.
+
+</div>
+
+<div class="research-figure">
+
+![](images/PCM_HS/pcm_temperature_response.png)
+
+**Experimental results:** Temperature evolution of the PCM-based heat sink at a 10 W heat input, illustrating the different stages of PCM heating and phase change.
+
+</div>
+
+</div>
+
 **Key areas:**
 
 - PCM-based heat sinks
@@ -80,11 +108,40 @@ I use **Proper Orthogonal Decomposition (POD)** to extract dominant spatial stru
 
 The resulting reduced-order representation is combined with machine-learning models to predict the POD modal coefficients for new operating conditions.
 
-In my published work, the POD-RF framework was evaluated using **714 CFD simulations**, including **600 training cases and 114 independent test cases**. 
+In my published work, the POD-RF framework was evaluated using **714 CFD simulations**, including **600 training cases and 114 independent test cases**.
 
-The POD-RF model achieved an MAE of **0.621 K**, RMSE of **0.831 K**, and \(R^2=0.958\) over the independent test dataset. 
+The POD-RF model achieved an MAE of **0.621 K**, RMSE of **0.831 K**, and $(R^2 = 0.958)$ over the independent test dataset.
 
 Most importantly, the reduced-order model reduced the prediction time from approximately **5 hours for a high-fidelity CFD simulation to less than one second** per operating condition.
+
+<div class="rom-figure-grid">
+
+<div class="rom-figure">
+
+![](images/Rom_air/Flowchart.png)
+
+**Reduced-order modeling framework:** CFD data generation, POD mode extraction, model training, and prediction.
+
+</div>
+
+<div class="rom-figure">
+
+![](images/ROM_air/RMSE_box_plot.png)
+
+**Model validation:** Comparison of predicted and CFD mean temperatures for POD-LSR, POD-MARS, and POD-RF.
+
+</div>
+
+<div class="rom-figure rom-figure-wide">
+
+![](images/ROM_air/Temperature_predictions.jpg)
+
+**Spatial temperature prediction** Temperature field prediction using POD-RF, POD-MARS, and POD-LSR.
+
+</div>
+
+</div>
+
 
 ---
 
