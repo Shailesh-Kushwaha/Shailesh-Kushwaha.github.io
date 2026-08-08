@@ -200,27 +200,27 @@
     "href": "publications.html#section",
     "title": "Publications | Shailesh Kushwaha",
     "section": "2026",
-    "text": "2026\n\nReduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition\nAuthors: Shailesh Kushwaha, Ankith Suresh, C. Balaji\nJournal: Applied Thermal Engineering, 303 (2026), 132277\nStatus: Published\nDOI: 10.1016/j.applthermaleng.2026.132277\nHighlights\n\nDeveloped a data-driven POD-Random Forest reduced-order model for air-cooled data center thermal prediction.\nEvaluated POD-RF against POD-LSR and POD-MARS.\nValidated the models using 114 independent test cases.\nPOD-RF achieved an MAE of 0.621 K, RMSE of 0.831 K, and (R^2=0.958).\nReduced online prediction time from approximately 5 hours for CFD to less than 1 second per operating condition."
+    "text": "2026\n\nReduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition\nAuthors: Shailesh Kushwaha, Ankith Suresh, C. Balaji\nJournal: Applied Thermal Engineering, 303 (2026), 132277\nStatus: Published\nDOI →\nHighlights\n\nDeveloped a data-driven POD-Random Forest reduced-order model for air-cooled data center thermal prediction.\nEvaluated POD-RF against POD-LSR and POD-MARS.\nValidated the models using 114 independent test cases.\nPOD-RF achieved an MAE of 0.621 K, RMSE of 0.831 K, and (R^2=0.958).\nReduced online prediction time from approximately 5 hours for CFD to less than 1 second per operating condition."
   },
   {
     "objectID": "publications.html#section-1",
     "href": "publications.html#section-1",
     "title": "Publications | Shailesh Kushwaha",
     "section": "2023",
-    "text": "2023\n\nHeat transfer performance of a novel PCM based heat sink coupled with heat pipe: An experimental study\nAuthors: Shailesh Kushwaha, Naresh Yarramsetty, Jyotirmay Banerjee\nJournal: Applied Thermal Engineering, 229 (2023), 120552\nStatus: Published\nDOI: 10.1016/j.applthermaleng.2023.120552\nHighlights\n\nConducted experimental investigations of PCM-based heat sinks.\nInvestigated different fin configurations and PCM fill ratios.\nDeveloped a three-fin heat sink coupled with a heat pipe.\nThe heat-pipe-coupled configuration improved charging and discharging performance compared with the three-fin heat sink."
+    "text": "2023\n\nHeat transfer performance of a novel PCM based heat sink coupled with heat pipe: An experimental study\nAuthors: Shailesh Kushwaha, Naresh Yarramsetty, Jyotirmay Banerjee\nJournal: Applied Thermal Engineering, 229 (2023), 120552\nStatus: Published\nDOI →\nHighlights\n\nConducted experimental investigations of PCM-based heat sinks.\nInvestigated different fin configurations and PCM fill ratios.\nDeveloped a three-fin heat sink coupled with a heat pipe.\nThe heat-pipe-coupled configuration improved charging and discharging performance compared with the three-fin heat sink."
   },
   {
     "objectID": "publications.html#section-2",
     "href": "publications.html#section-2",
     "title": "Publications | Shailesh Kushwaha",
     "section": "2026",
-    "text": "2026\n\nPerformance Enhancement of Single-Phase Immersion Cooled Data Center Servers through Top Cover Plate Design Modification\nAuthors: Jouhar Sheikh, Kasavajhula Naga Vasista, Shailesh Kushwaha, Chakravarthy Balaji\nConference: Proceedings of the 28th National and 6th International ISHMT-AS​TFE Heat and Mass Transfer Conference\nDOI: 10.1615/ihmtc-2025.1050"
+    "text": "2026\n\nPerformance Enhancement of Single-Phase Immersion Cooled Data Center Servers through Top Cover Plate Design Modification\nAuthors: Jouhar Sheikh, Kasavajhula Naga Vasista, Shailesh Kushwaha, Chakravarthy Balaji\nConference: Proceedings of the 28th National and 6th International ISHMT-AS​TFE Heat and Mass Transfer Conference\nDOI →"
   },
   {
     "objectID": "publications.html#section-3",
     "href": "publications.html#section-3",
     "title": "Publications | Shailesh Kushwaha",
     "section": "2024",
-    "text": "2024\n\nThermal management of multi-chip electronic module with wavy fin heat sink-assisted immersion cooling\nAuthors: P. Suresh, K. N. Vasista, S. Kushwaha, C. Balaji\nJournal: Journal of Physics: Conference Series\nYear: 2024\nArticle: 012182\nDOI: 10.1088/1742-6596/2766/1/012182"
+    "text": "2024\n\nThermal management of multi-chip electronic module with wavy fin heat sink-assisted immersion cooling\nAuthors: P. Suresh, K. N. Vasista, S. Kushwaha, C. Balaji\nJournal: Journal of Physics: Conference Series\nYear: 2024\nArticle: 012182\nDOI →"
   }
 ]
