@@ -1,0 +1,89 @@
+body {
+    font-family: "Segoe UI", sans-serif;
+}
+
+img {
+    border-radius: 15%;
+}
+
+h1 {
+    color: #ce3d04;
+}
+
+h2 {
+    color: #946103;
+}
+
+.callout {
+    border-radius: 10px;
+}
+p {
+    text-align: justify;
+}
+.news-ticker {
+  overflow: hidden;
+  white-space: nowrap;
+  background: #055e64;
+  border-left: 5px solid #ff1e00;
+  padding: 10px 0;
+  font-size: 1.1rem;
+  font-weight: 500;
+}
+
+.news-ticker span {
+  display: inline-block;
+  padding-left: 100%;
+  animation: ticker 18s linear infinite;
+}
+
+@keyframes ticker {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-100%);
+  }
+}
+/* ================================
+   Publication Cards
+   ================================ */
+
+.publication-card {
+    padding: 1.5rem 1.7rem;
+    margin: 1.2rem 0 2rem 0;
+
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    border-radius: 12px;
+
+    background: rgba(255, 255, 255, 0.025);
+
+    transition: transform 0.25s ease,
+                box-shadow 0.25s ease,
+                border-color 0.25s ease;
+}
+
+.publication-card:hover {
+    transform: translateY(-3px);
+
+    border-color: rgba(255, 255, 255, 0.35);
+
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.18);
+}
+
+.publication-card h3 {
+    margin-top: 0;
+    margin-bottom: 1rem;
+    line-height: 1.4;
+}
+
+.publication-card p {
+    margin-bottom: 0.65rem;
+}
+
+.publication-card a {
+    font-weight: 600;
+}
+
+.publication-card strong {
+    font-weight: 700;
+}

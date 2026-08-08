@@ -1,0 +1,90 @@
+---
+toc: false
+page-layout: full
+---
+
+# About Me
+
+I am **Shailesh Kushwaha**, a **Ph.D. Research Scholar** in the **Department of Mechanical Engineering at the Indian Institute of Technology Madras (IIT Madras)**, where I conduct research under the supervision of **Prof. C. Balaji**.
+
+My academic and research background is in **thermal engineering and thermal management of electronic systems**. My work combines experimental investigations with computational modeling and data-driven methods to address challenging heat-transfer problems.
+
+During my research career, I have designed and developed **in-house experimental facilities** for electronics and data center cooling. I have also developed computational models and used experimental measurements for model validation. Building on this foundation, my doctoral research has expanded toward **machine-learning-assisted reduced-order modeling** for rapid thermal prediction.
+
+I am particularly interested in developing computational approaches that can bridge the gap between high-fidelity physics-based simulations and fast predictive models. Looking ahead, I am interested in **scientific machine learning and Physics-Informed Neural Networks (PINNs)** for developing efficient alternatives or complements to conventional CFD.
+
+---
+
+# Academic Background
+
+## Ph.D. in Mechanical Engineering
+**2022 – Present**
+
+**Indian Institute of Technology Madras (IIT Madras)**  
+Department of Mechanical Engineering
+
+**Supervisor:** Prof. C. Balaji
+
+---
+
+## M.Tech. in Thermal System Design
+**2020 – 2022**
+
+**Sardar Vallabhbhai National Institute of Technology (SVNIT), Surat**  
+Department of Mechanical Engineering
+
+**Supervisors:** Dr. Naresh Yarramsetty and Dr. Jyotirmay Banerjee
+
+My master's research focused on **electronics cooling and PCM-based heat sinks**.
+
+---
+
+## B.Tech. in Mechanical Engineering
+**2015 – 2019**
+
+**Pranveer Singh Institute of Technology (PSIT), Kanpur**
+
+---
+
+# Technical Expertise
+
+## Experimental Thermal Engineering
+
+- Experimental facility design and development
+- Heat-transfer experimentation
+- Thermal measurements
+- Electronics cooling experiments
+- PCM-based thermal management
+- Heat pipe-assisted cooling
+
+## Computational Modeling
+
+- Computational Fluid Dynamics (CFD)
+- ANSYS Fluent
+- ANSYS Meshing
+- ICEM CFD
+- SpaceClaim
+
+## Reduced-Order Modeling & Machine Learning
+
+- Proper Orthogonal Decomposition (POD)
+- Singular Value Decomposition (SVD)
+- Machine-learning-assisted reduced-order modeling
+- Random Forest regression
+- Surrogate modeling
+
+## Scientific Computing & HPC
+
+- Python
+- MATLAB
+- Linux
+- PBS Job Scheduler
+- Parallel computing
+
+---
+
+# Research Direction
+
+My long-term goal is to develop **intelligent computational frameworks for thermal engineering** that integrate experimental data, physics-based modeling, reduced-order methods, and scientific machine learning.
+
+I am particularly interested in developing physics-informed approaches that can provide the predictive capabilities of high-fidelity simulations at substantially lower computational cost.

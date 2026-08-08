@@ -1,0 +1,87 @@
+---
+toc: false
+page-layout: full
+---
+
+::: {.columns}
+
+::: {.column width="25%"}
+
+![](images/profile.png){width=220}
+
+:::
+
+::: {.column width="75%"}
+
+# Shailesh Kushwaha
+
+### Ph.D. Research Scholar
+
+Department of Mechanical Engineering  
+**Indian Institute of Technology Madras**
+
+My research lies at the intersection of **experimental heat transfer, computational fluid dynamics, reduced-order modeling, and scientific machine learning**, with applications in thermal management of electronic systems and data centers.
+
+::: {.profile-links}
+
+[<i class="fa-brands fa-google-scholar"></i> Google Scholar](https://scholar.google.com/citations?hl=en&user=Z3vaXL4AAAAJ)
+
+[<i class="fa-brands fa-github"></i> GitHub](https://github.com/Shailesh-Kushwaha)
+
+[<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/shailesh-kushwaha-6218ab210)
+
+[<i class="fa-brands fa-orcid"></i> ORCID](https://orcid.org/0000-0002-3400-5294)
+
+:::
+
+:::
+
+:::
+---
+
+## Latest News
+
+<div class="news-ticker">
+<span>
+🎉 Our paper, <strong>"Reduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition"</strong>, has been published in <em>Applied Thermal Engineering</em>.
+</span>
+</div>
+
+---
+
+## Research Highlights
+
+### Experimental Thermal Engineering
+
+Design and development of experimental facilities for electronics and data center cooling, with experimental investigations of advanced thermal management systems.
+
+### Computational Thermal Engineering
+
+Development and validation of CFD models for analyzing airflow and temperature distributions in thermal management systems.
+
+### Scientific Machine Learning
+
+Development of machine-learning-assisted reduced-order models and exploration of physics-informed approaches for accelerating thermal simulations.
+
+---
+
+## Selected Publications
+
+### **Reduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition**
+
+*Applied Thermal Engineering* · 2026
+
+[View publication →](publications.qmd)
+
+---
+
+### **Heat transfer performance of a novel PCM based heat sink coupled with heat pipe: An experimental study**
+
+*Applied Thermal Engineering* · 2023
+
+[View publication →](publications.qmd)
+
+---
+
+[**Explore my research →**](research.qmd)  
+[**View all publications →**](publications.qmd)

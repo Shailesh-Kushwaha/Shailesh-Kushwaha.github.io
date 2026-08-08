@@ -1,0 +1,43 @@
+---
+toc: false
+page-layout: full
+---
+
+# Contact
+
+I am open to research discussions, collaborations, and postdoctoral opportunities in thermal engineering and scientific machine learning.
+
+---
+
+## Academic Affiliation
+
+**Shailesh Kushwaha**  
+Ph.D. Research Scholar  
+Heat Transfer and Thermal Power (HTTP) Laboratory  
+Department of Mechanical Engineering  
+Indian Institute of Technology Madras  
+Chennai – 600036, Tamil Nadu, India
+
+---
+
+## Email
+
+📧 **me22d038@smail.iitm.ac.in**
+
+---
+
+## Professional Profiles
+
+🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z3vaXL4AAAAJ)
+
+💻 [GitHub](https://github.com/Shailesh-Kushwaha)
+
+💼 [LinkedIn](https://www.linkedin.com/in/shailesh-kushwaha-6218ab210)
+
+🆔 [ORCID](https://orcid.org/0000-0002-3400-5294)
+
+---
+
+## Research Collaboration
+
+I welcome opportunities to collaborate on research involving **experimental heat transfer, thermal management, computational fluid dynamics, reduced-order modeling, and scientific machine learning**.

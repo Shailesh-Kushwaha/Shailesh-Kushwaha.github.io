@@ -1,0 +1,98 @@
+---
+toc: false
+page-layout: full
+---
+
+# Publications
+
+My publications span **experimental electronics cooling** and **data-driven reduced-order modeling for data center thermal management**.
+
+A complete and up-to-date publication record is also available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=Z3vaXL4AAAAJ).
+
+---
+
+# Journal Articles
+
+## 2026
+::: {.publication-card}
+
+### Reduced order modeling of air-cooled data center using data-driven proper orthogonal decomposition
+
+**Authors:** Shailesh Kushwaha, Ankith Suresh, C. Balaji
+
+**Journal:** *Applied Thermal Engineering*, 303 (2026), 132277
+
+**Status:** Published
+
+**DOI:** [10.1016/j.applthermaleng.2026.132277](https://doi.org/10.1016/j.applthermaleng.2026.132277)
+
+**Highlights**
+
+- Developed a data-driven POD-Random Forest reduced-order model for air-cooled data center thermal prediction.
+- Evaluated POD-RF against POD-LSR and POD-MARS.
+- Validated the models using 114 independent test cases.
+- POD-RF achieved an MAE of 0.621 K, RMSE of 0.831 K, and \(R^2=0.958\).
+- Reduced online prediction time from approximately 5 hours for CFD to less than 1 second per operating condition.
+
+:::
+
+## 2023
+::: {.publication-card}
+
+### Heat transfer performance of a novel PCM based heat sink coupled with heat pipe: An experimental study
+
+**Authors:** Shailesh Kushwaha, Naresh Yarramsetty, Jyotirmay Banerjee
+
+**Journal:** *Applied Thermal Engineering*, 229 (2023), 120552
+
+**Status:** Published
+
+**DOI:** [10.1016/j.applthermaleng.2023.120552](https://doi.org/10.1016/j.applthermaleng.2023.120552)
+
+**Highlights**
+
+- Conducted experimental investigations of PCM-based heat sinks.
+- Investigated different fin configurations and PCM fill ratios.
+- Developed a three-fin heat sink coupled with a heat pipe.
+- The heat-pipe-coupled configuration improved charging and discharging performance compared with the three-fin heat sink.
+
+:::
+
+
+
+# Conference Papers
+
+## 2026
+
+::: {.publication-card}
+
+### Performance Enhancement of Single-Phase Immersion Cooled Data Center Servers through Top Cover Plate Design Modification
+
+**Authors:** Jouhar Sheikh, Kasavajhula Naga Vasista, **Shailesh Kushwaha**, Chakravarthy Balaji
+
+**Conference:** *Proceedings of the 28th National and 6th International ISHMT-AS​TFE Heat and Mass Transfer Conference*
+
+**DOI:** [10.1615/ihmtc-2025.1050](https://doi.org/10.1615/ihmtc-2025.1050)
+
+
+:::
+
+
+
+## 2024
+
+::: {.publication-card}
+
+### Thermal management of multi-chip electronic module with wavy fin heat sink-assisted immersion cooling
+
+**Authors:** P. Suresh, K. N. Vasista, **S. Kushwaha**, C. Balaji
+
+**Journal:** *Journal of Physics: Conference Series*  
+**Year:** 2024  
+**Article:** 012182
+
+**DOI:** [10.1088/1742-6596/2766/1/012182](https://doi.org/10.1088/1742-6596/2766/1/012182)
+
+
+:::
+
