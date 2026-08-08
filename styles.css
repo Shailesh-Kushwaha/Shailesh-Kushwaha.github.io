@@ -243,6 +243,6 @@ p {
 
     /* Better readability on phones */
     p {
-        text-align: justify;
+        text-align: left;
     }
 }
